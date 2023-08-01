@@ -1,0 +1,4 @@
+0 Kawung
+1 MegaMendung
+2 Parang
+3 Truntum
